@@ -1,3 +1,3 @@
 # bookshelf-api
 
-dicoding final project
+submission for dicoding final project using node.js and hapi as a framework
